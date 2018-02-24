@@ -1,0 +1,1 @@
+gcc -S "%1" -fno-asynchronous-unwind-tables -fno-dwarf2-cfi-asm
